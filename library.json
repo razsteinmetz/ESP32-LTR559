@@ -1,0 +1,23 @@
+{
+  "name": "LTR559-ESP32",
+  "version": "1.0.0",
+  "description": "A basic driver for the LTR-559 Light and Proximity Sensor",
+  "keywords": "LTR-559, LTR559,ESP32-LTR-559,Light Sensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/username/hello-world.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Raz",
+      "email": "raz.steinmetz@gmail.com",
+	        "maintainer": true
+    },
+  ],
+  "license": "MIT",
+ 
+  "frameworks": "*",
+  "platforms": "*"
+}
