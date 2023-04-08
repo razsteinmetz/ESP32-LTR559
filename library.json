@@ -6,13 +6,13 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/username/hello-world.git"
+        "url": "https://github.com/razsteinmetz/ESP32-LTR559.git"
   },
   "authors":
   [
     {
       "name": "Raz",
-      "email": "raz.steinmetz@gmail.com",
+      
 	        "maintainer": true
     },
   ],
